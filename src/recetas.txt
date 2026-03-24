@@ -1,5 +1,12 @@
 Fecha: 24-03-2026
+HEAD
 SOPAS Y CALDOS
 1. Sopa de tomate: tomate, cebolla, ajo, caldo de pollo.
 2. Caldo de res: huesos de res, zanahoria, papa, sal.
 3. Crema de champinones: champinones, crema, mantequilla.
+=======
+ENSALADAS
+1. Ensalada cesar: lechuga, crutones, parmesano, aderezo cesar.
+2. Ensalada caprese: tomate, mozzarella, albahaca, aceite de oliva.
+3. Ensalada griega: pepino, aceituna, feta, oregano.
+recetas-ensaladas
