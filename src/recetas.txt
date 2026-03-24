@@ -14,3 +14,9 @@ POSTRES
 1. Flan: leche, huevos, azucar, vainilla.
 2. Pastel de chocolate: harina, cacao, mantequilla, azucar.
 3. Arroz con leche: arroz, leche, canela, azucar.
+
+BEBIDAS
+1. Agua de jamaica: flores de jamaica, agua, azucar, limon.
+2. Horchata: arroz, canela, azucar, agua.
+3. Limonada: hielo, limon, azucar, agua.
+
