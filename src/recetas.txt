@@ -1,4 +1,5 @@
 Fecha: 24-03-2026
+
 HEAD
 SOPAS Y CALDOS
 1. Sopa de tomate: tomate, cebolla, ajo, caldo de pollo.
@@ -19,4 +20,10 @@ BEBIDAS
 1. Agua de jamaica: flores de jamaica, agua, azucar, limon.
 2. Horchata: arroz, canela, azucar, agua.
 3. Limonada: hielo, limon, azucar, agua.
+
+=======
+PLATILLOS PRINCIPALES
+1. Tacos de carne asada: tortilla, carne, cebolla, cilantro, salsa.
+2. Enchiladas: tortilla, pollo, salsa roja, queso, crema.
+3. Chiles rellenos: chile poblano, queso, huevo, salsa de tomate.
 
